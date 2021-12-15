@@ -1,1 +1,9 @@
 **R Markdown**
+types of data science questions
+  to data analysis
+    descriptive- describe or summarize a set of data
+    exploratrory- examine the data and find relationships that were not known
+    inferential- using small data to say something about larger population
+    predictive -using current and historical data to make predictions about future data
+    causal - what happens to one variable when we manipulate other variable
+    mechanistic - changes in a variable which lead to changes in other variables
